@@ -1,3 +1,6 @@
 [submodule "01-precious-metals"]
 	path = 01-precious-metals
 	url = https://github.com/Esturban/precious-metals.git
+[submodule "02-cra-forms"]
+	path = 02-cra-forms
+	url = https://github.com/Esturban/cra-forms.git
